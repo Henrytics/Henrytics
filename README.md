@@ -1,16 +1,68 @@
-### Hi there 👋
-
-<!--
-**Henrytics/Henrytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<html>
+<head>
+<meta http-equiv="Content-Type"content="text/html; charset=UTF-8">
+<title>Mi pagina</title>
+<style>
+*{
+margin:0;
+padding:0;
+}
+a:link, a:visited, a:hover, a:active {
+color:#0f0;
+font-size:16px;
+}
+body {
+background:#eee;
+font-family:verdana;
+}
+h1 {
+color:#c0c;
+font-size:24px;
+}
+ul {
+list-style-type:none;
+}
+#cabecera {
+color:red;
+background-color:yellow;
+padding:32px;
+}
+#contenedor {
+margin:0 auto;
+width:300px;
+}
+#contenido {
+background-color:#ddd;
+float:left;
+height:500px;
+padding:10px;
+width:560px;
+}
+#menu {
+background-color:blue;
+float:left;
+height:480px;
+padding:20px;
+width:180px;
+}
+</style>
+<body>
+<div id="contenedor">
+<div id="cabecera">
+<p>Texto en el encabezado de la página</p>
+</div>
+<div id="menu">
+<ul>
+   <li><a href="perfil.html">enlace 1</a></li>
+   <li><a href="Asignaturas.html">enlace 2</a></li>
+   <li><a href="Favoritos.html">enlace 3</a></li>
+</ul>
+</div>
+<div id="contenidos">
+  <h1>Esta sección es para el contenido de la página</h1>
+  <p>Texto de la página</p>
+</div>
+</div>
+</body>
+</head>
+</html> 
