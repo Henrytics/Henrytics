@@ -9,9 +9,9 @@
 </div>
 <div id="menu">
 <ul>
-   <li><a href="perfil.html">enlace 1</a></li>
-   <li><a href="Asignaturas.html">enlace 2</a></li>
-   <li><a href="Favoritos.html">enlace 3</a></li>
+   <li><a href="perfil.md">enlace 1</a></li>
+   <li><a href="Asignaturas.md">enlace 2</a></li>
+   <li><a href="Favoritos.md">enlace 3</a></li>
 </ul>
 </div>
 <div id="contenidos">
